@@ -1,0 +1,10 @@
+{
+    "name": "nadir/first",
+    "authors": [
+        {
+            "name": "nfouka",
+            "email": "nadir.fouka@gmail.com"
+        }
+    ],
+    "require": {}
+}
