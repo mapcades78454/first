@@ -87,5 +87,5 @@ class tesdsdsdtsdsdsd {
 
 
 class testsdsdsd {
-	print "test222";
+	print "test22dsdsds";
 }
