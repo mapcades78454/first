@@ -38,7 +38,7 @@ public functon getPhp72() :void{
 }
 
 public function aa(){
-	
+	return null;
 }
 
 
