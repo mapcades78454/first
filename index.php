@@ -22,6 +22,9 @@ public functon getPhp7() :void{
 	return "" ; 
 }
 
+public function test(){
+	
+}
 
 public void console(){
 	print "console252app" ;
