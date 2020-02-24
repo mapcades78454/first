@@ -82,10 +82,10 @@ class testsdsdsqsqssd {
 }
 
 class tesdsdsdtsdsdsd {
-	print "test222";
+	print "test2sdlksdlksdl22";
 }
 
 
 class testsdsdsd {
-	print "test222";
+	print "test2ksdlskdlskdlk22";
 }
