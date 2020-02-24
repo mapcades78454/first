@@ -5,7 +5,7 @@ class StackTest extends TestCase
 {
 
     public function hhh() {
-
+	print "ij";
     }
 
     public function testPushAndPop()
