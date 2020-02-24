@@ -3,6 +3,11 @@ use PHPUnit\Framework\TestCase;
 
 class StackTest extends TestCase
 {
+
+    public function hhh() {
+
+    }
+
     public function testPushAndPop()
     {
         $stack = [];
