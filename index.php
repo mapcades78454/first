@@ -17,6 +17,10 @@ private $attr1 ;
 public function sayeHello() {
 	print "hello" ; 
 }
+
+	public functon getPhpsdsd7() :void{
+	return "" ; 
+}
 	
 public functon getPhp7() :void{
 	return "" ; 
