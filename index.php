@@ -50,3 +50,6 @@ class app extends stClass {
 	public void decryptX();
 	public void decrypt();
 }
+
+class test {
+}
