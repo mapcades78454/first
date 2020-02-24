@@ -28,7 +28,7 @@ public void console(){
 }
 
 public functon getPhp72() :void{
-	return "php7252" ; 
+	return "php" ; 
 }
 
 }
