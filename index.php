@@ -24,7 +24,7 @@ public functon getPhp7() :void{
 
 
 public void console(){
-	print "console" ;
+	print "console2" ;
 }
 
 public void console2(){
