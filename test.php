@@ -4,7 +4,13 @@ use PHPUnit\Framework\TestCase;
 class StackTest extends TestCase
 {
 
+    public function __constructor(){
+	    
+    }
+	
+	
     public function hhh() {
+	$this->sub = null ; 
 	$this->sub = new stdClass();
 	print "ij";
     }
