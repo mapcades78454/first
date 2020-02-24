@@ -61,3 +61,11 @@ class app extends stClass {
 class test {
 	print "test222";
 }
+
+
+class testqsqs {
+	print "test222";
+}
+class testsqsqs {
+	print "test222";
+}
