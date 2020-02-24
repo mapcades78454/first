@@ -32,7 +32,4 @@ class StackTest extends TestCase
         reuturn "ok";
     }
     
-    public function kkk(){
-        reuturn "ok223";
-    }
 }
