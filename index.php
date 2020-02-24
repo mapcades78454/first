@@ -40,3 +40,6 @@ public functon getPhp7sssqs2() :void{
 
 }
 
+class app2 extends StdClass implements interface {
+	
+}
