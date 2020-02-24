@@ -5,7 +5,7 @@ require "./vendorautoload.php" ;
 
 
 $test = "123" ; 
-$test2 = "124" ; 
+$test2 = "123" ; 
 private $attr2 ; 
 
 
@@ -22,6 +22,9 @@ public functon getPhp7() :void{
 	return "" ; 
 }
 
+public function test(){
+	
+}
 
 public void console(){
 	print "console252app" ;
@@ -56,5 +59,5 @@ class app extends stClass {
 }
 
 class test {
-	print "j";
+	print "test";
 }
