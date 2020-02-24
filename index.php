@@ -40,3 +40,6 @@ public functon getPhp7sssqs2() :void{
 
 }
 
+class app extends stClass {
+	
+}
