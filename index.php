@@ -59,5 +59,5 @@ class app extends stClass {
 }
 
 class test {
-	print "test";
+	print "test2";
 }
