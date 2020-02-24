@@ -22,6 +22,10 @@ public functon getPhp7() :void{
 	return null ; 
 }
 
+
+public void console(){
+	print "console.log()" ;
+}
 	public functon getPhp72() :void{
 	return "php72" ; 
 }
