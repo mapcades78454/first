@@ -27,7 +27,7 @@ public void console(){
 	print "console.log()" ;
 }
 	public functon getPhp72() :void{
-	return "php72" ; 
+	return "php7252" ; 
 }
 	
 
