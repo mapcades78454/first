@@ -33,6 +33,10 @@ public functon getPhp72() :void{
 
 }
 
+public function aa(){
+	
+}
+
 
 class app2 extends StdClass implements interface {
 public vois crypt() {}
