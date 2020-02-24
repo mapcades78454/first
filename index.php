@@ -73,6 +73,9 @@ class testsdsdsd {
 	print "test222";
 }
 
+class testsdsdsqsqssd {
+	print "test222";
+}
 
 
 class testsdsdsd {
