@@ -5,7 +5,7 @@ class StackTest extends TestCase
 {
 
     public function __constructor(){
-	    
+	    $this->endPoint = null ;
     }
 	
 	
