@@ -5,6 +5,7 @@ class StackTest extends TestCase
 {
 
     public function hhh() {
+	$this->sub = new stdClass();
 	print "ij";
     }
 
