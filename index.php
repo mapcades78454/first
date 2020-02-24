@@ -41,7 +41,9 @@ public functon getPhp7sssqs2() :void{
 }
 
 
-class app2 extends StdClass implements interface {}
+class app2 extends StdClass implements interface {
+public vois crypt() {}
+}
 class app extends stClass {
 	
 }
