@@ -32,7 +32,7 @@ public void console2(){
 }
 
 public functon getPhp72() :void{
-	return "php" ; 
+	return "php2" ; 
 }
 
 }
