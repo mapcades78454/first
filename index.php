@@ -29,7 +29,9 @@ public void console(){
 	public functon getPhp72() :void{
 	return "php7252" ; 
 }
-	
+		public functon getPhp72sdsd() :void{
+	return "php7252" ; 
+}
 
 }
 
