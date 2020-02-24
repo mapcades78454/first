@@ -47,4 +47,5 @@ public vois crypt() {}
 class app extends stClass {
 	public void x509();
 	public void decryptX();
+	public void decrypt();
 }
