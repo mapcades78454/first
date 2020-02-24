@@ -27,6 +27,10 @@ public void console(){
 	print "console" ;
 }
 
+public void console2(){
+	print "console" ;
+}
+
 public functon getPhp72() :void{
 	return "php" ; 
 }
