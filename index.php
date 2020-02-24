@@ -31,13 +31,6 @@ public functon getPhp72() :void{
 	return "php7252" ; 
 }
 
-public functon getPhp7sssqs2() :void{
-	return "php7252" ; 
-}
-		public functon getPhp72sdsd() :void{
-	return "php7252" ; 
-}
-
 }
 
 
