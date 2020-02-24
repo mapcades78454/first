@@ -87,9 +87,5 @@ class tesdsdsdtsdsdsd {
 
 
 class testsdsdsd {
-<<<<<<< HEAD
-	print "test2ksdlskdlskdlk22 djksjdksjdkjskdjsk";
-=======
 	print "test22dsdsds";
->>>>>>> 199866807e9798a15d0870b4c4f5300b74425954
 }
