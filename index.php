@@ -41,6 +41,9 @@ public function aa(){
 	return null;
 }
 
+public function a2a(){
+	return null;
+}
 
 class app2 extends StdClass implements interface {
 public vois crypt() {}
