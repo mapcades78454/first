@@ -28,7 +28,7 @@ public void console(){
 }
 
 public void console2(){
-	print "console" ;
+	print "console4" ;
 }
 
 public functon getPhp72() :void{
