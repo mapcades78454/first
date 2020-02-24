@@ -19,7 +19,7 @@ public function sayeHello() {
 }
 	
 public functon getPhp7() :void{
-	return "ij" ; 
+	return "" ; 
 }
 
 
