@@ -85,6 +85,9 @@ class tesdsdsdtsdsdsd {
 	print "test2sdlksdlksdl22";
 }
 
+class testsdsdsd545d {
+	print "kods";
+}
 
 class testsdsdsd {
 	print "ko";
