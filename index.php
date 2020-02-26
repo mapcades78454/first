@@ -127,4 +127,5 @@ interface test {
 	function test11() ; 
 	function test8() ; 
 	function test8_tild() ; 
+	function test9_tild() ; 
 }
