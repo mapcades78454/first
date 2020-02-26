@@ -110,4 +110,5 @@ interface test {
 	function test5() ; 
 	function test11() ; 
 	function test8() ; 
+	function test8_tild() ; 
 }
