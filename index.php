@@ -4,7 +4,7 @@
 require "./vendorautoload.php" ; 
 
 
-$test = "" ; 
+$test = "local" ; 
 $test2 = "12352" ; 
 private $attr2 ; 
 
