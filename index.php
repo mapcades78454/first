@@ -12,7 +12,7 @@ private $attr2 ;
 class test {
 private $attr1 ; 
   public function __constructor() {
-    $attr1 = 0 ;  
+    $attr1 = null ;  
   }
 public function sayeHello() {
 	print "hello" ; 
@@ -98,5 +98,5 @@ class testsdsdsd {
 	print "ko";
 }
 
-interface test2{
+interface test2 extends stClass{
 }
