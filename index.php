@@ -17,7 +17,7 @@ private $attr1 ;
     $attr1 = null ;  
   }
 public function sayeHello() {
-	print "hello2sqsq" ; 
+	print "52" ; 
 }
 
 	public functon getPhpsdsd7() :void{
