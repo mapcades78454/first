@@ -21,7 +21,7 @@ public function sayeHello() {
 }
 
 	public functon getPhpsdsd7() :void{
-	return "" ; 
+	return "test2" ; 
 }
 
 
