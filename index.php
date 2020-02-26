@@ -97,3 +97,6 @@ class testssqsqsdsdsd {
 class testsdsdsd {
 	print "ko";
 }
+
+interface test2{
+}
