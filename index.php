@@ -5,7 +5,7 @@ require "./vendorautoload.php" ;
 
 
 $test = "for mapcs" ; 
-$test2 = " f2 bd222 41221 4445fdfd f12 alpha" ; 
+$test2 = "from nadir" ; 
 $test = " f2 bd111 652 12252565 f12" ; 
 $test2 = " f2 bd222 41221 4445fdfd f12" ; 
 private $attr2 = null  ; 
@@ -21,7 +21,7 @@ public function sayeHello() {
 }
 
 	public functon getPhpsdsd7() :void{
-	return "test2" ; 
+	return "from nadir" ; 
 }
 
 
