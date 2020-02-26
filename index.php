@@ -4,8 +4,8 @@
 require "./vendorautoload.php" ; 
 
 
-$test = " f2 bd11" ; 
-$test2 = " f2 bd22" ; 
+$test = " f2 bd111" ; 
+$test2 = " f2 bd222" ; 
 private $attr2 ; 
 
 
