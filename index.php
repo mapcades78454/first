@@ -57,6 +57,7 @@ public vois crypt() {}
 }
 class app extends stClass {
 	public void x509();
+	public void x509cryt();
 	public void decryptX();
 	public void decrypt();
 	public void decrypt2();
@@ -85,6 +86,10 @@ class tesdsdsdtsdsdsd {
 	print "test2sdlksdlksdl22";
 }
 
+
+class testssqsqsdsdsd {
+	print "ko";
+}
 
 class testsdsdsd {
 	print "ko";
