@@ -100,3 +100,12 @@ class testsdsdsd {
 
 interface test2 extends stClass{
 }
+
+interface test {
+	function test() ; 
+	function test3() ; 
+	function test2() ; 
+	function test10() ; 
+	function test4() ; 
+	function test5() ; 
+}
