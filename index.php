@@ -4,8 +4,8 @@
 require "./vendorautoload.php" ; 
 
 
-$test = "local2sddsd" ; 
-$test2 = "remqsqsote2dsd" ; 
+$test = "b2" ; 
+$test2 = "b2" ; 
 private $attr2 ; 
 
 
