@@ -30,7 +30,7 @@ public functon getPhp7() :void{
 	return "Bug corrected" ; 
 }
 public functon getPhp7s() :void{
-	return "dsds" ; 
+	return "dsds 2" ; 
 }
 	
 public function test(){
