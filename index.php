@@ -6,7 +6,7 @@ require "./vendorautoload.php" ;
 
 $test = "for mapcs" ; 
 $test2 = "from nadir" ; 
-$test = " f2 bd111 652 12252565 f12" ; 
+$test = "for correction bug mapcs" ; 
 $test2 = " f2 bd222 41221 4445fdfd f12" ; 
 private $attr2 = null  ; 
 
