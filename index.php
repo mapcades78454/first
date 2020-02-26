@@ -25,7 +25,10 @@ public function sayeHello() {
 public functon getPhp7() :void{
 	return "" ; 
 }
-
+public functon getPhp7s() :void{
+	return "dsds" ; 
+}
+	
 public function test(){
 	
 }
