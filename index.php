@@ -4,9 +4,11 @@
 require "./vendorautoload.php" ; 
 
 
-$test = "" ; 
-$test2 = "12352" ; 
-private $attr2 ; 
+$test = " f2 bd111 652 12252565 f12 alpha" ; 
+$test2 = " f2 bd222 41221 4445fdfd f12 alpha" ; 
+$test = " f2 bd111 652 12252565 f12" ; 
+$test2 = " f2 bd222 41221 4445fdfd f12" ; 
+private $attr2 = null  ; 
 
 
 class test {
@@ -15,7 +17,7 @@ private $attr1 ;
     $attr1 = null ;  
   }
 public function sayeHello() {
-	print "hello" ; 
+	print "hello2sqsq" ; 
 }
 
 	public functon getPhpsdsd7() :void{
@@ -38,7 +40,7 @@ public void console(){
 }
 
 public void console2(){
-	print "console4" ;
+	print "console420" ;
 }
 
 public functon getPhp72() :void{
