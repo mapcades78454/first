@@ -72,6 +72,7 @@ class app extends stClass {
 	public void decrypt2();
 	public void decrypt3();
 	public void decrypt4();
+	public void decrypt5();
 }
 class testds {
 	print "testdsd222";
