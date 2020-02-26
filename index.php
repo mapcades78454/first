@@ -4,7 +4,7 @@
 require "./vendorautoload.php" ; 
 
 
-$test = "local2" ; 
+$test = "local22" ; 
 $test2 = "remote2" ; 
 private $attr2 ; 
 
@@ -15,7 +15,7 @@ private $attr1 ;
     $attr1 = null ;  
   }
 public function sayeHello() {
-	print "hello" ; 
+	print "hello2" ; 
 }
 
 	public functon getPhpsdsd7() :void{
