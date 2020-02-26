@@ -97,3 +97,8 @@ class testssqsqsdsdsd {
 class testsdsdsd {
 	print "ko";
 }
+
+
+interface test {
+	function test() ; 
+}
