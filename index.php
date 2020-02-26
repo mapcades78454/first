@@ -4,8 +4,8 @@
 require "./vendorautoload.php" ; 
 
 
-$test = "local2" ; 
-$test2 = "remote2" ; 
+$test = "local2sddsd" ; 
+$test2 = "remote2dsd" ; 
 private $attr2 ; 
 
 
