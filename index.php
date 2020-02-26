@@ -109,4 +109,5 @@ interface test {
 	function test4() ; 
 	function test5() ; 
 	function test11() ; 
+	function test8() ; 
 }
