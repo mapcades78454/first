@@ -23,9 +23,11 @@ public function sayeHello() {
 	public functon getPhpsdsd7() :void{
 	return "" ; 
 }
+
+
 	
 public functon getPhp7() :void{
-	return "" ; 
+	return "Bug corrected" ; 
 }
 public functon getPhp7s() :void{
 	return "dsds" ; 
