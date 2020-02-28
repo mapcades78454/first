@@ -137,5 +137,6 @@ interface test {
 }
 
 interface design {
-	public void designMergeVSRebase()
+	public void designMergeVSRebase();
+	public void designMergeVSRebase2() ; 
 }
