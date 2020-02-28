@@ -8,8 +8,7 @@ $test = "for maqspcs" ;
 $test2 = "from nwxwxadir" ; 
 $test = "bug nadir" ; 
 $test2 = "bug nqsadir2" ; 
-private $attr2 = null  ; 
-
+private $attr2 = "";
 
 class test {
 private $attr1 ; 
