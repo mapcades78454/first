@@ -87,7 +87,7 @@ class testds {
 }
 
 class test {
-	print "test222";
+	print "test22dsd2";
 }
 
 
