@@ -5,7 +5,7 @@ require "./vendorautoload.php" ;
 
 
 $test = "for maqspcs" ; 
-$test2 = "fromsqssqsqsnadir" ; 
+$test2 = "fromsqssqsdsdsdsqsnadir" ; 
 $test = "bug nadir" ; 
 $test2 = "bug nqsadir2" ; 
 private $attr2 = null  ; 
