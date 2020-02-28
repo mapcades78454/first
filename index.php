@@ -3,7 +3,7 @@
 
 require "./vendorautoload.php" ; 
 
-$test = "fix bug " ;
+$test = "fix bug 2" ;
 $test = "for maqspcs" ; 
 $test2 = "from nwxwxadir" ; 
 $test = "bug" ; 
