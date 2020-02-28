@@ -135,3 +135,7 @@ interface test {
 	function test8_tild() ; 
 	function test9_tild() ; 
 }
+
+interface design {
+	
+}
