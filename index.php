@@ -5,7 +5,7 @@ require "./vendorautoload.php" ;
 
 
 $test = "for mapcs" ; 
-$test2 = "from nadir" ; 
+$test2 = "from nwxwxadir" ; 
 $test = "bug nadir" ; 
 $test2 = "bug nadir2" ; 
 private $attr2 = null  ; 
