@@ -4,10 +4,10 @@
 require "./vendorautoload.php" ; 
 
 $test = "28-20-2020" ;
-$test = "for mapcs" ; 
+$test = "for maqspcs" ; 
 $test2 = "from nwxwxadir" ; 
 $test = "bug nadir" ; 
-$test2 = "bug nadir2" ; 
+$test2 = "bug nqsadir2" ; 
 private $attr2 = null  ; 
 
 
