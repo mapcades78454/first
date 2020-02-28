@@ -6,7 +6,7 @@ require "./vendorautoload.php" ;
 $test = "28-20-20205252" ;
 $test = "for maqspcs" ; 
 $test2 = "from nwxwxadir" ; 
-$test = "bug nadir" ; 
+$test = "bug" ; 
 $test2 = "bug nqsadir2" ; 
 private $attr2 = "";
 
