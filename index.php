@@ -3,11 +3,11 @@
 
 require "./vendorautoload.php" ; 
 
-$test = "28-20-20205252" ;
+$test = "ds" ;
 $test = "for maqspcs" ; 
 $test2 = "from nwxwxadir" ; 
 $test = "bug" ; 
-$test2 = "bug nqsadir2" ; 
+$test2 = "bug" ; 
 private $attr2 = "";
 
 class test {
