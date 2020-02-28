@@ -4,10 +4,10 @@
 require "./vendorautoload.php" ; 
 
 
-$test = "for mapcs" ; 
-$test2 = "from nadir" ; 
+$test = "for maqspcs" ; 
+$test2 = "fromsqssqsqsnadir" ; 
 $test = "bug nadir" ; 
-$test2 = "bug nadir2" ; 
+$test2 = "bug nqsadir2" ; 
 private $attr2 = null  ; 
 
 
