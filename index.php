@@ -113,7 +113,7 @@ class testsdsdsd545d {
 }
 
 class testssqsqsdsdsd {
-	print "ko";
+	print "kzezeo";
 }
 
 class testsdsdsd {
