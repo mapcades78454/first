@@ -4,7 +4,7 @@
 require "./vendorautoload.php" ; 
 
 $test = "fix bug b2" ;
-$test = "for maqspcs" ; 
+$test = "for sd" ; 
 $test2 = "from nwxwxadir" ; 
 $test = "bug" ; 
 $test2 = "bug" ; 
